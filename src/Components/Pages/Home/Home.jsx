@@ -47,7 +47,7 @@ const Home = () => {
                 </div>
 
 
-                <div className='w-[70%] p-5 '>
+                <div className='w-[70%] p-5 bg-white '>
                     <div className='flex justify-between border-b border-gray-200 p-5'>
                         <div className='w-[60%] flex items-center gap-x-3'>
                             <img src="https://i.ibb.co/kx9700v/IMG-965883.jpg" alt="Mehedi" className='w-[50px] h-[50px] object-cover rounded-full' />
